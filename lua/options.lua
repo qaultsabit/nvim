@@ -7,8 +7,8 @@ vim.schedule(function()
 end)
 vim.opt.breakindent = true
 vim.opt.tabstop = 4
--- vim.opt.shiftwidth = 2
--- vim.opt.softtabstop = 2
+vim.opt.shiftwidth = 4
+-- vim.opt.softtabstop = 4
 vim.opt.expandtab = true
 vim.opt.undofile = true
 vim.opt.ignorecase = true
